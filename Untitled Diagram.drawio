@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T00:21:43.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="TnZFzGVT-6_HpM0OYL05" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T03:14:07.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="1lzaeLQnOwjgBIMoDmWG" version="17.1.2" type="github">
   <diagram id="3Oa2FU6WdSEPwMQpqXgP" name="Page-1">
-    <mxGraphModel dx="1209" dy="749" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,21 @@
         </mxCell>
         <mxCell id="Vmmvbk5OUHh-zlz8TvPI-2" value="(b) TrustZone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="528.5" y="426" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iG4RzA8wXj4Cqr_PJvea-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="iG4RzA8wXj4Cqr_PJvea-1" target="iG4RzA8wXj4Cqr_PJvea-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iG4RzA8wXj4Cqr_PJvea-1" value="&lt;font style=&quot;font-size: 19px&quot;&gt;EL3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149" y="852" width="529" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="iG4RzA8wXj4Cqr_PJvea-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.237;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=17;" edge="1" parent="1" source="iG4RzA8wXj4Cqr_PJvea-2" target="iG4RzA8wXj4Cqr_PJvea-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iG4RzA8wXj4Cqr_PJvea-2" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Non-Secure&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="628" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iG4RzA8wXj4Cqr_PJvea-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Realm&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="628" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
