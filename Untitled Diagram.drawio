@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T13:56:42.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="ADFCVJ0J6JzwivL3AHUS" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T01:05:09.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="tlUCreOtIvssmypjE04g" version="17.4.0" type="github">
   <diagram id="3Oa2FU6WdSEPwMQpqXgP" name="Page-1">
     <mxGraphModel dx="1209" dy="749" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,8 +64,23 @@
         <mxCell id="iG4RzA8wXj4Cqr_PJvea-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Realm&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="628" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l4_dy4eYYlAQDKPkVzfR-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;From Non-Secure World to Realm&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="l4_dy4eYYlAQDKPkVzfR-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;From Non-Secure World to Realm&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="1180" width="327" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="OS-qDNgfLh5rKtzlkYB0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OS-qDNgfLh5rKtzlkYB0-2" target="OS-qDNgfLh5rKtzlkYB0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OS-qDNgfLh5rKtzlkYB0-2" value="EL3&lt;br&gt;ARMv8.0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162" y="1494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OS-qDNgfLh5rKtzlkYB0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OS-qDNgfLh5rKtzlkYB0-3" target="OS-qDNgfLh5rKtzlkYB0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OS-qDNgfLh5rKtzlkYB0-3" value="S-EL2&lt;br&gt;ARMv8.4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OS-qDNgfLh5rKtzlkYB0-4" value="CCA&lt;br&gt;ARMv9.2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="1494" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
