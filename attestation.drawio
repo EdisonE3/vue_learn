@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T08:11:06.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" version="19.0.2" etag="AWurLFEXJy0TuXPEJX3W" type="github"><diagram id="rpfzMZJ1WCSBL3HiM9C_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-17T08:29:38.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="c1bjVnmuzVz-HWwAKM-S" version="19.0.2" type="github">
+  <diagram id="rpfzMZJ1WCSBL3HiM9C_" name="Page-1">
+    <mxGraphModel dx="1609" dy="1549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0pyoU2voeQXo9jIR6_Ho-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="268.5" y="-127" width="173" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="0pyoU2voeQXo9jIR6_Ho-1" value="Realm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="-597" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pyoU2voeQXo9jIR6_Ho-2" value="Realm boot state" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="-436" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pyoU2voeQXo9jIR6_Ho-3" value="Realm attestation service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="-436" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pyoU2voeQXo9jIR6_Ho-4" value="Realm attestation token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="-436" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pyoU2voeQXo9jIR6_Ho-5" value="CCA Platform Attestation Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="-275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pyoU2voeQXo9jIR6_Ho-6" value="HES Host boot state" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="-67.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pyoU2voeQXo9jIR6_Ho-7" value="CCA Platform boot state" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="6.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pyoU2voeQXo9jIR6_Ho-8" value="CCA Platform Attestation Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="-31.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pyoU2voeQXo9jIR6_Ho-9" value="HES Host attestation token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="-67.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pyoU2voeQXo9jIR6_Ho-10" value="&lt;span style=&quot;&quot;&gt;CCA Platform boot token&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="6.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pyoU2voeQXo9jIR6_Ho-11" value="Combine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="-424.5" width="109" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="0pyoU2voeQXo9jIR6_Ho-13" value="CCA Platform Attestation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="-114" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
