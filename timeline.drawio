@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T09:17:54.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="Eh1u49eTJq-RKYw76cK_" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-07T09:18:22.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="fiZp-OfDgw9RPUnYolnb" version="20.2.3" type="github">
   <diagram id="WCKdaZAybNmvm6cT548h" name="第 1 页">
     <mxGraphModel dx="2585" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="DU8MWkY8y_udkj92Kaym-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=33;fillColor=#B3B3B3;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="977.5" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DU8MWkY8y_udkj92Kaym-22" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Arm partitions the whole system into two worlds: secure world for TEE and normal world for REE.&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=33;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DU8MWkY8y_udkj92Kaym-22" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Arm partitions the whole system into two worlds: Secure world for TEE and Normal world for REE.&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=33;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145.69" y="995" width="339.62" height="150" as="geometry" />
         </mxCell>
         <mxCell id="DU8MWkY8y_udkj92Kaym-23" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;The monitor mode for world switch is moved from EL1 to EL3.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=33;whiteSpace=wrap;html=1;" vertex="1" parent="1">
