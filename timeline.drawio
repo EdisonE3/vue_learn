@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T04:24:38.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="h1Tp08HA8uqqYOn1DdeO" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T04:25:47.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="AyBDjtGBD7n0x2HKPeID" version="20.8.21" type="github">
   <diagram id="WCKdaZAybNmvm6cT548h" name="第 1 页">
     <mxGraphModel dx="1562" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -306,16 +306,16 @@
         <mxCell id="t2QVPuMqahOsta1EcN8U-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Arm将整个系统分为两部分：安全世界和正常世界。&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255.75" y="1611" width="145.75" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="t2QVPuMqahOsta1EcN8U-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="t2QVPuMqahOsta1EcN8U-11" value="虚拟化拓展（VE）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="413.88" y="1771" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t2QVPuMqahOsta1EcN8U-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="t2QVPuMqahOsta1EcN8U-12" value="虚拟化主机扩展（VHE）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="588.5" y="1771" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t2QVPuMqahOsta1EcN8U-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="763.5" y="1761" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="t2QVPuMqahOsta1EcN8U-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="t2QVPuMqahOsta1EcN8U-15" value="领域管理拓展（RME）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="932.38" y="1851" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t2QVPuMqahOsta1EcN8U-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
